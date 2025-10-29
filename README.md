@@ -1,2 +1,2 @@
 # comeback-to-coding
-My comeback to coding — starting with Git and essential developer tools.
+My comeback to coding — learning Git and command-line fundamentals.
