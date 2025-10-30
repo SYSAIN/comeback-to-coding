@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Comeback to Coding
 =======
 # Comeback to Coding
@@ -40,5 +39,3 @@ This repo will include:
 ---
 
 **Let’s code, learn, and grow! 🚀**
-
->>>>>>> 721fee3098b0b702e8281096479cab1d14688117
