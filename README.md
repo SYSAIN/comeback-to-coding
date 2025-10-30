@@ -1,6 +1,4 @@
 # My Comeback to Coding
-=======
-# Comeback to Coding
 
 Welcome to my coding journey! This repository documents my **return to programming** and tracks the projects, exercises, and experiments I’m working on.
 
