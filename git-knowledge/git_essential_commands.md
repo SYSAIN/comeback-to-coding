@@ -105,10 +105,15 @@ Merge branch into main
 `git checkout main`
 `git merge new-branch`
 
+Switch to new branch 
+
+`git switch new-branch`
+
 
 " -------------------------------
 " 7️⃣ Handling Conflicts
 " -------------------------------
+
 If there is a conflict, Git marks it in files:
 
 <<<<<<< HEAD
