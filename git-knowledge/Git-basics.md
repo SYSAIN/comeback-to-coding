@@ -23,6 +23,7 @@ Set your username and email:
 
 
 `git config --global user.name "Your Name"`
+
 `git config --global user.email "youremail@example.com"`
 
 -------------------------------
@@ -31,6 +32,7 @@ Set your username and email:
 Create a new folder for your project:
 
 `mkdir my-project`
+
 `cd my-project`
 
 
@@ -51,6 +53,7 @@ Check the status of your repo
 Add files to staging
 
 `git add filename`
+
 `git add .`  Adds all files
 
 
@@ -76,7 +79,10 @@ Add a remote repo
 Push changes
 
 `git push -u origin main`
+ 
+ or
 
+`git push -u name_of_the_new_branch`
 
 Pull changes
 
@@ -96,6 +102,7 @@ Switch branches
 
 `git checkout new-branch`
 
+`git switch`
 
 Rename current branch
 
@@ -105,6 +112,7 @@ Rename current branch
 Merge branch into main
 
 `git checkout main`
+
 `git merge new-branch`
 
 
@@ -115,8 +123,8 @@ If there is a conflict, Git marks it in files:
 
 <<<<<<< HEAD
 
-           Your local changes
-            Remote changes
+Your local changes
+Remote changes
 
 >>>>>>> branch-name
 
@@ -126,6 +134,7 @@ Edit the file to keep what you want.
 Then add and commit:
 
 `git add filename`
+
 `git commit -m` "Resolved conflict"
 
 
@@ -135,7 +144,7 @@ Then add and commit:
 
 Delete a file:
 
-`git rm filename`
+`rm filename`
 
 
 Delete a folder (use carefully!):
