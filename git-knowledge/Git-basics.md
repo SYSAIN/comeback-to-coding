@@ -115,10 +115,21 @@ Merge branch into main
 
 `git merge new-branch`
 
+Switch to new branch 
 
+`git switch new-branch`
+
+
+<<<<<<< HEAD:git-knowledge/git_essential_commands.md
+" -------------------------------
+" 7️⃣ Handling Conflicts
+" -------------------------------
+
+=======
 -------------------------------
 # 7️⃣ Handling Conflicts
 -------------------------------
+>>>>>>> main:git-knowledge/Git-basics.md
 If there is a conflict, Git marks it in files:
 
 <<<<<<< HEAD
