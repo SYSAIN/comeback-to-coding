@@ -119,17 +119,16 @@ Switch to new branch
 
 `git switch new-branch`
 
+to know how many branches You have 
 
-<<<<<<< HEAD:git-knowledge/git_essential_commands.md
-" -------------------------------
-" 7️⃣ Handling Conflicts
-" -------------------------------
+`git branch`
 
-=======
+
 -------------------------------
 # 7️⃣ Handling Conflicts
 -------------------------------
->>>>>>> main:git-knowledge/Git-basics.md
+
+
 If there is a conflict, Git marks it in files:
 
 <<<<<<< HEAD
